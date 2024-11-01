@@ -1,0 +1,1131 @@
+CRITICAL - 2024-10-24 00:50:58 --> ParseError: syntax error, unexpected token "}"
+[Method: GET, Route: usuarios]
+in APPPATH\Controllers\Usuarios.php on line 386.
+ 1 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('usuarios', 'GET')
+ 2 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('usuarios')
+ 3 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:51:12 --> ParseError: syntax error, unexpected token "}"
+[Method: GET, Route: usuarios]
+in APPPATH\Controllers\Usuarios.php on line 386.
+ 1 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('usuarios', 'GET')
+ 2 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('usuarios')
+ 3 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:51:13 --> ParseError: syntax error, unexpected token "}"
+[Method: GET, Route: usuarios]
+in APPPATH\Controllers\Usuarios.php on line 386.
+ 1 SYSTEMPATH\Router\Router.php(563): CodeIgniter\Router\AutoRouter->getRoute('usuarios', 'GET')
+ 2 SYSTEMPATH\Router\Router.php(228): CodeIgniter\Router\Router->autoRoute('usuarios')
+ 3 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('usuarios')
+ 4 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 00:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 00:52:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 00:52:08 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:08 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:09 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:09 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:09 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:09 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:09 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:10 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 00:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 00:52:14 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:14 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:15 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:15 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:15 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:15 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:15 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:16 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 00:52:18 --> CSRF token verified.
+INFO - 2024-10-24 00:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 00:52:19 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:19 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:52:21 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 00:52:57 --> CSRF token verified.
+INFO - 2024-10-24 00:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 00:52:59 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:00 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:00 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:00 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:00 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:01 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:01 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 00:53:01 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 21:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 21:09:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 21:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 21:09:23 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:23 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:23 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:23 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:24 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:24 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:24 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:25 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 21:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 21:09:30 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:30 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:30 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:31 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:31 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:31 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:31 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 21:09:31 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 21:09:33 --> CSRF token verified.
+INFO - 2024-10-24 23:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:23:19 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:19 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:20 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:21 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:21 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:23:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 23:23:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:23:38 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:39 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:39 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:39 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:39 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:39 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:40 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:23:40 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:24:04 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:05 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:05 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:05 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:05 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:05 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:06 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:24:06 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 377.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:24:07 --> CSRF token verified.
+INFO - 2024-10-24 23:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 23:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 23:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:44:28 --> ErrorException: finfo::file(C:\xampp\htdocs\ordem\writable\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg): Failed to open stream: No such file or directory
+[Method: GET, Route: usuarios/imagem/1729474713_0792f64653d910b55b20.jpg]
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo::file(C:\\xampp\\htdocs\\ordem\\writable\\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ordem\\app\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(66): finfo->file('C:\\xampp\\htdocs\\ordem\\writable\\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg')
+ 3 APPPATH\Controllers\Usuarios.php(372): App\Controllers\BaseController->exibeArquivo('usuarios', '1729474713_0792f64653d910b55b20.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->imagem('1729474713_0792f64653d910b55b20.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:54:47 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:47 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:47 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:48 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:48 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:48 --> ErrorException: finfo::file(C:\xampp\htdocs\ordem\writable\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg): Failed to open stream: No such file or directory
+[Method: GET, Route: usuarios/imagem/1729474713_0792f64653d910b55b20.jpg]
+in APPPATH\Controllers\BaseController.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'finfo::file(C:\\xampp\\htdocs\\ordem\\writable\\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ordem\\app\\Controllers\\BaseController.php', 66)
+ 2 APPPATH\Controllers\BaseController.php(66): finfo->file('C:\\xampp\\htdocs\\ordem\\writable\\uploads/usuarios/1729474713_0792f64653d910b55b20.jpg')
+ 3 APPPATH\Controllers\Usuarios.php(372): App\Controllers\BaseController->exibeArquivo('usuarios', '1729474713_0792f64653d910b55b20.jpg')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->imagem('1729474713_0792f64653d910b55b20.jpg')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:49 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:49 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:49 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:54:51 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:51 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:51 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:51 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:52 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:52 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:52 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:54:52 --> TypeError: App\Controllers\Usuarios::editarImagem(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editarimagem/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 249.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editarImagem('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:55:14 --> CSRF token verified.
+INFO - 2024-10-24 23:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-10-24 23:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:55:17 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:17 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:17 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:17 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:18 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:18 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:18 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:18 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 157.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:55:26 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:26 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:27 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:27 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:27 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:27 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:55:28 --> CSRF token verified.
+INFO - 2024-10-24 23:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-10-24 23:55:28 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-10-24 23:55:28 --> TypeError: App\Controllers\Usuarios::excluir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/excluir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 378.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->excluir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-10-24 23:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

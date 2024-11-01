@@ -1,0 +1,1386 @@
+CRITICAL - 2024-09-29 02:24:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:33 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:33 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:33 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:33 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:33 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:34 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:39 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:39 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:39 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:39 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:24:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 02:24:44 --> CSRF token verified.
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:43 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:33:43 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:31 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:31 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:31 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:31 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:32 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:41 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:41 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:41 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:41 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:42 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:42 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:42 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:34:42 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:02 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:03 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:03 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:03 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:03 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:03 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:04 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:36:04 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:24 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:25 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:25 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:25 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:25 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:26 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:26 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 02:42:27 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 02:44:52 --> CSRF token verified.
+CRITICAL - 2024-09-29 03:12:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:40 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:41 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:41 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:41 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:41 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:12:42 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 03:13:08 --> CSRF token verified.
+CRITICAL - 2024-09-29 03:13:08 --> Error: Call to undefined method App\Entities\Usuario::hashChanged()
+[Method: POST, Route: usuarios/atualizar]
+in APPPATH\Controllers\Usuarios.php on line 125.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:13:27 --> CodeIgniter\Security\Exceptions\SecurityException: A ação que você requisitou não é permitida.
+[Method: POST, Route: usuarios/atualizar]
+in SYSTEMPATH\Security\Security.php on line 262.
+ 1 SYSTEMPATH\Security\Security.php(262): CodeIgniter\Security\Exceptions\SecurityException::forDisallowedAction()
+ 2 SYSTEMPATH\Filters\CSRF.php(52): CodeIgniter\Security\Security->verify(Object(CodeIgniter\HTTP\IncomingRequest))
+ 3 SYSTEMPATH\Filters\Filters.php(205): CodeIgniter\Filters\CSRF->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 4 SYSTEMPATH\Filters\Filters.php(184): CodeIgniter\Filters\Filters->runBefore([...])
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\Filters\Filters->run('usuarios/atualizar', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:37 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:37 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:37 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:38 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:38 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:38 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:38 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:39 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 03:18:53 --> CSRF token verified.
+CRITICAL - 2024-09-29 03:18:55 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:55 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:55 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:55 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:56 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:56 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:56 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:18:56 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:44 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:44 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:44 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:45 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:45 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:45 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:45 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:21:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 03:39:21 --> CSRF token verified.
+ERROR - 2024-09-29 03:39:21 --> mysqli_sql_exception: Unknown column 'password' in 'field list' in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `usuario...', 0)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+#8 C:\xampp\htdocs\ordem\app\Controllers\Usuarios.php(131): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+#10 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#11 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ordem\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-09-29 03:39:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'field list'
+[Method: POST, Route: usuarios/atualizar]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password` = :password:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 6 APPPATH\Controllers\Usuarios.php(131): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:39:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password` = \'eusei\', `password_confirmation` = \'eusei\', `atualizado_em` = \'2024-09-29 03:39:21\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password` = \'eusei\', `password_confirmation` = \'eusei\', `atualizado_em` = \'2024-09-29 03:39:21\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password` = :password:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 8 APPPATH\Controllers\Usuarios.php(131): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:39:21 --> [Caused by] mysqli_sql_exception: Unknown column 'password' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password` = \'eusei\', `password_confirmation` = \'eusei\', `atualizado_em` = \'2024-09-29 03:39:21\'
+WHERE `usuarios`.`id` IN (\'3\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password` = \'eusei\', `password_confirmation` = \'eusei\', `atualizado_em` = \'2024-09-29 03:39:21\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password` = \'eusei\', `password_confirmation` = \'eusei\', `atualizado_em` = \'2024-09-29 03:39:21\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password` = :password:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 9 APPPATH\Controllers\Usuarios.php(131): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:46 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:47 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:47 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:53:47 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 03:54:41 --> CSRF token verified.
+ERROR - 2024-09-29 03:54:41 --> mysqli_sql_exception: Unknown column 'password_confirmation' in 'field list' in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `usuario...', 0)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuario...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuario...')
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuario...', Array, false)
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\BaseModel.php(1028): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Model.php(865): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+#8 C:\xampp\htdocs\ordem\app\Controllers\Usuarios.php(135): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+#10 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#11 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\xampp\htdocs\ordem\public\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\rewrite.php(44): require_once('C:\\xampp\\htdocs...')
+#16 {main}
+CRITICAL - 2024-09-29 03:54:41 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password_confirmation' in 'field list'
+[Method: POST, Route: usuarios/atualizar]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 5 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 6 APPPATH\Controllers\Usuarios.php(135): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:54:41 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'password_confirmation' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password_confirmation` = \'soeusei\', `atualizado_em` = \'2024-09-29 03:54:41\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password_confirmation` = \'soeusei\', `atualizado_em` = \'2024-09-29 03:54:41\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 4 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 5 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 6 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 7 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 8 APPPATH\Controllers\Usuarios.php(135): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+15 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:54:41 --> [Caused by] mysqli_sql_exception: Unknown column 'password_confirmation' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password_confirmation` = \'soeusei\', `atualizado_em` = \'2024-09-29 03:54:41\'
+WHERE `usuarios`.`id` IN (\'3\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password_confirmation` = \'soeusei\', `atualizado_em` = \'2024-09-29 03:54:41\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `usuarios` SET `nome` = \'Dr. Dasia Hartmann-atualizado\', `email` = \'altenwerth.dasiaatualizado@flatley.com\', `password_confirmation` = \'soeusei\', `atualizado_em` = \'2024-09-29 03:54:41\'
+WHERE `usuarios`.`id` IN (\'3\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2516): CodeIgniter\Database\BaseConnection->query('UPDATE `usuarios` SET `nome` = :nome:, `email` = :email:, `password_confirmation` = :password_confirmation:, `atualizado_em` = :atualizado_em:
+WHERE `usuarios`.`id` IN :usuarios.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(461): CodeIgniter\Database\BaseBuilder->update()
+ 6 SYSTEMPATH\BaseModel.php(1028): CodeIgniter\Model->doUpdate([...], [...])
+ 7 SYSTEMPATH\Model.php(865): CodeIgniter\BaseModel->update([...], [...])
+ 8 SYSTEMPATH\BaseModel.php(749): CodeIgniter\Model->update('3', Object(App\Entities\Usuario))
+ 9 APPPATH\Controllers\Usuarios.php(135): CodeIgniter\BaseModel->save(Object(App\Entities\Usuario))
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->atualizar()
+11 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+12 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+16 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:50 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:51 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:51 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:51 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:52 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:52 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:52 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:56:53 --> TypeError: App\Controllers\Usuarios::editar(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/editar/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 86.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->editar('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+INFO - 2024-09-29 03:57:23 --> CSRF token verified.
+CRITICAL - 2024-09-29 03:57:25 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:25 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:25 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:25 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:26 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:26 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:27 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 03:57:27 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:03 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-3.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-3.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:03 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-2.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-2.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-1.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-1.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-5.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-5.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/GB.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'GB.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/avatar-6.jpg]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'avatar-6.jpg')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/DE.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'DE.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
+CRITICAL - 2024-09-29 04:02:04 --> TypeError: App\Controllers\Usuarios::exibir(): Argument #1 ($id) must be of type ?int, string given, called in C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php on line 933
+[Method: GET, Route: usuarios/exibir/img/flags/16/FR.png]
+in APPPATH\Controllers\Usuarios.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Usuarios->exibir('img', 'flags', '16', 'FR.png')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ordem\\public\\index.php')
